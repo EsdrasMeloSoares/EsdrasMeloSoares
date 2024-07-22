@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **Vehicle tracking**
+- 🔭 I am currently working at a **Vehicle tracking** company
 - 🌱 Learning **React Native**
 
 ## Skills
