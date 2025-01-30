@@ -1,6 +1,6 @@
 # 👨‍💻 Esdras Melo
 
-**`Desenvolvedor back-end`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Esdras Melo Soares, tenho 18 anos. Concluí o ensino médio em uma escola profissionalizante, com o curso técnico em informática.
 
