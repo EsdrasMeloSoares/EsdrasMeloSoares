@@ -29,6 +29,14 @@ Me chamo Esdras Melo Soares, tenho 18 anos. Concluí o ensino médio em uma esco
 />
 <img 
     align="left" 
+    alt="JS" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/js/js-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
