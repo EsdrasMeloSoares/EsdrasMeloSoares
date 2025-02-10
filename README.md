@@ -2,7 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Esdras Melo Soares, tenho 18 anos. Concluí o ensino médio em uma escola profissionalizante, com o curso técnico em informática.
 
 ## Contato
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esdrasmelo12soares@gmail.com)
