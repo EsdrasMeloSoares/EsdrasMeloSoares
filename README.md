@@ -43,9 +43,7 @@ Sou desenvolvedor PHP especializado em aplicações web com Laravel. Aqui você 
 
 ## 📌 Objetivos
 
-- Aprimorar boas práticas no Laravel
-- Desenvolver interfaces funcionais e intuitivas
-- Criar soluções web completas, do backend ao frontend
+Contribuir para projetos inovadores como desenvolvedor back-end PHP, aplicando soluções modernas e colaborando ativamente em equipes ágeis.
 
 ## 📫 Contato
 
