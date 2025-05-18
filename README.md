@@ -50,4 +50,4 @@ Sou desenvolvedor PHP especializado em aplicações web com Laravel. Aqui você 
 ## 📫 Contato
 
 - Email: esdrasmelo12soares@gmail.com
-- LinkedIn: [Esdras Melo]([https://www.linkedin.com/in/seu-t](https://www.linkedin.com/in/esdras-melo-103351280/))
+- LinkedIn: [Esdras Melo](https://www.linkedin.com/in/esdras-melo-103351280/)
