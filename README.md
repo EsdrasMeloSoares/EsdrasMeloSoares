@@ -3,7 +3,7 @@
 Sou desenvolvedor PHP especializado em aplicações web com Laravel. Aqui você encontrará meus projetos, estudos e experimentos com foco em desenvolvimento de sistemas eficientes, organizados e funcionais.
 
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias e ferramentas
 <table>
   <tr>
     <td align="center" width="100">
